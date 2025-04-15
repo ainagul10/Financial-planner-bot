@@ -15,3 +15,14 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+financial_planner_bot/
+├── bot.py
+├── handlers.py
+├── data.json
+├── keys.env        ← этот файл НЕ загружай в GitHub
+├── README.md
+├── requirements.txt
+├── screenshots/
+│   ├── start.png
+│   ├── config.png
+│   └── summary.png
