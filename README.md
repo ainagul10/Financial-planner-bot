@@ -13,7 +13,6 @@ financial_planner_bot/
 ├── bot.py
 ├── handlers.py
 ├── data.json
-├── keys.env        ← этот файл НЕ загружай в GitHub
 ├── README.md
 ├── requirements.txt
 ├── screenshots/
